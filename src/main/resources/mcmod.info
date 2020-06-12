@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hypixelfriends",
+  "name": "HypixelFriends",
+  "description": "Integrates your hypixel friends into minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tyman"],
+  "credits": "Hypixel, for creating their API",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
